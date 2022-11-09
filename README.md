@@ -1,2 +1,3 @@
 # CRUD-In-Java
-Get the sauce here
+
+Don't forget to change the java version, the java version in xml must same with your java version.
